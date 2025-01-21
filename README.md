@@ -23,6 +23,12 @@ Here's a concise and engaging About Me for your GitHub profile:<br><br>👋 Hi, 
 ### ✍️ Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravkumarsony/gauravkumarsony/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravkumarsony/gauravkumarsony/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gauravkumarsony/gauravkumarsony/output/github-snake.svg" />
+</picture>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=gauravkumarsony&icon=0&color=0)](https://visitcount.itsvg.in)
 
