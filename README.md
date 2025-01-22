@@ -1,4 +1,4 @@
-<img src="https://github.com/gauravkumarsony/photo/blob/main/Black%20and%20White%20Modern%20Minimalist%20Contemporary%20LinkedIn%20Article%20Cover%20Image%20(1).png?raw=true" alt="Updated Image" />
+<img src="banner.png" alt="Updated Image" />
 
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate software developer from India</h3>
