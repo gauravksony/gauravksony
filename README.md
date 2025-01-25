@@ -4,7 +4,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
  # 💫 About Me:
-Here's a concise and engaging About Me for your GitHub profile:<br><br>👋 Hi, I’m Gaurav!<br>🎓 Pursuing MCA and currently exploring the exciting field of Machine Learning.<br>💻 A passionate coder who loves building projects and solving problems.<br>🌟 Always learning, experimenting, and turning ideas into impactful solutions.<br><br>📫 Reach me at gauravsony67@gmail.com | https://gaurav-gk.netlify.app/
+<br><br>👋 Hi, I’m Gaurav!<br>🎓 Pursuing MCA and currently exploring the exciting field of Machine Learning.<br>💻 A passionate coder who loves building projects and solving problems.<br>🌟 Always learning, experimenting, and turning ideas into impactful solutions.<br><br>📫 Reach me at gauravsony67@gmail.com | https://gaurav-gk.netlify.app/
 
 
 ## 🌐 Socials:
